@@ -58,6 +58,5 @@ PowerAPI provides graphical information based on Projects deployed on Azure DevO
 
 7. Active coding days:
 
--       It shows number of commits done by a team member based on ‘From date and To Date’
+-   It shows number of commits done by a team member based on ‘From date and To Date’
 ![image](https://user-images.githubusercontent.com/76027933/102451997-97560580-405f-11eb-90b5-59cfc0f00616.png)
-
