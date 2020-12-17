@@ -16,14 +16,15 @@ PowerAPI provides graphical information based on Projects deployed on Azure DevO
 
 1. Actionable Items:
 
--	Total “Open pull requests” in selected project
--	Open pull requests with ‘No reviewers’
+-Total “Open pull requests” in selected project.
+-Open pull requests with ‘No reviewers’.
 ![image](https://user-images.githubusercontent.com/76027933/102451351-4db8eb00-405e-11eb-8bdd-5692544ec84c.png)
 
 2. Project Pull Requests:
 -	All Open PRs details
 -	PR’s with conflicts
 -	PR’s with “No Reviewer”
+
 ![image](https://user-images.githubusercontent.com/76027933/102451440-7e008980-405e-11eb-9283-090ee641383b.png)
 
 3. Open Pull Request Age:
@@ -57,3 +58,4 @@ PowerAPI provides graphical information based on Projects deployed on Azure DevO
 
 -       It shows number of commits done by a team member based on ‘From date and To Date’
 ![image](https://user-images.githubusercontent.com/76027933/102451997-97560580-405f-11eb-90b5-59cfc0f00616.png)
+
