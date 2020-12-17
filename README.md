@@ -31,6 +31,7 @@ PowerAPI provides graphical information based on Projects deployed on Azure DevO
 3. Open Pull Request Age:
 
 - 	Shows how many days a pull request is in Open state.
+
 ![image](https://user-images.githubusercontent.com/76027933/102451538-ad16fb00-405e-11eb-957e-bbf292e4ae83.png)
 
 4. Collaboration Trends Pull Request:
