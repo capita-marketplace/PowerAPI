@@ -16,8 +16,8 @@ PowerAPI provides graphical information based on Projects deployed on Azure DevO
 
 1. Actionable Items:
 
--Total “Open pull requests” in selected project.
--Open pull requests with ‘No reviewers’.
+- Total “Open pull requests” in selected project.
+- Open pull requests with ‘No reviewers’.
 
 ![image](https://user-images.githubusercontent.com/76027933/102451351-4db8eb00-405e-11eb-8bdd-5692544ec84c.png)
 
